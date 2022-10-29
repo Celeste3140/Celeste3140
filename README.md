@@ -1,4 +1,4 @@
-### Hello! I'm Celeste! 👋
+### Hello! I'm Celeste! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="100"/>
@@ -21,13 +21,13 @@
   
   ---
   
-  ### :woman_technologist: About Me:
+  ### About Me:
   
   - :palm_tree: I am a Full Stack Developer based in California.
   - :standing_woman: View my portfolio here -> [Celeste's Portfolio](https://celeste3140.github.io/Portfolio/)
   - :email: Email me here -> cbaltazar464@gmail.com
   
-  ###	:raising_hand_woman: Fun Facts:
+  ###	Fun Facts:
   
   - 🐈 Cat Lady
   - 🌻 Outdoors Lover
@@ -55,3 +55,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 🔥 My Stats:
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Celeste3140&theme=gotham&border_radius=2.5)](https://git.io/streak-stats)
+  
+  </div>
+  
