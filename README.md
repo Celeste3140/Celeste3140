@@ -18,4 +18,16 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Celeste3140&color=B2AC88&style=flat-square" alt=""/>
 </div
+  
+  ---
+  
+  ### :woman_technologist: About Me:
+  
+  - :palm_tree: I am a Full Stack Developer based in California.
+  
+  - :standing_woman: View my portfolio here -> [Celeste's Portfolio](https://celeste3140.github.io/Portfolio/)
+  
+  - :email: Email me here -> cbaltazar464@gmail.com
+
+---
 
