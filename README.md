@@ -63,7 +63,6 @@ My name is Celeste Baltazar and I'm an aspiring full stack web developer. I have
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Celeste3140&theme=gotham&border_radius=2.5)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celeste3140&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
   
