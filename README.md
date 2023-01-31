@@ -1,6 +1,6 @@
 ### Hello! I'm Celeste! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-My name is Celeste Baltazar and I'm an aspiring full stack web developer. I have a completed bachelors degree from University of California Riverside in sustainability science and also a completed wed development certfication from the same school!
+My name is Celeste Baltazar and I'm an aspiring full stack web developer. I have a completed bachelors degree from University of California Riverside in sustainability science and also a completed wed development certification from the same school!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
