@@ -23,7 +23,7 @@ My name is Celeste Baltazar and I'm an aspiring full stack web developer. I have
   ### About Me:
   
   - :palm_tree: I am a Full Stack Developer based in California.
-  - :standing_woman: View my portfolio here -> [Celeste's Portfolio](https://celeste3140.github.io/Portfolio/)
+  - :standing_woman: View my portfolio here -> [Celeste's Portfolio]( https://cbportfolio.vercel.app/)
   - :email: Email me here -> cbaltazar464@gmail.com
   
   ###	Fun Facts:
